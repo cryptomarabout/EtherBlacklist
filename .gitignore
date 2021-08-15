@@ -21,3 +21,8 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+package.json
+node_modules/*
+node_modules/
+*/node_modules
+package.json
